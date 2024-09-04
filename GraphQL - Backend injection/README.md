@@ -31,7 +31,6 @@ Content-Type: application/json
 Content-Length: 129
 Origin: http://challenge01.root-me.org:59079
 Connection: keep-alive
-Cookie: session=.eJwlzjsOwjAMANC7ZGZIYseOe5nKv6isLZ0QdweJd4L3Lvs68zrK9jrvfJT9GWUr2KiLi9UJmXWIDSXEpcYIMzwRrUrHGDVkeS7g5DlgVHAVDDKj6EpLPaFV4BEz0XoTZ5pJjRehUm-9JoSbqDduQCJMrktn-UXuK8__ZpTPF7kvL04.ZoZwiQ.X-4TOP6p7y76Dzt0oC3xNIRk0bw; PHPSESSID=6200fd7eaac370c518010e3d72be55e2
 X-PwnFox-Color: red
 Priority: u=0
 
