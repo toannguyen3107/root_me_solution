@@ -1,4 +1,4 @@
-# SQLi - Error based
+# PHP Wrappers
 
 # step 1: 
 
